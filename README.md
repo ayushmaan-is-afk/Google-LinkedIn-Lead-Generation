@@ -15,3 +15,5 @@ Configurable lead qualification using a 0–1 relevance score against the user's
 Structured data transformation and spreadsheet integration.
 
 An extensible workflow that can incorporate deduplication, contact validation, source attribution, and additional qualification signals.
+
+<img width="1586" height="459" alt="Screenshot from 2026-10-15 10-43-48" src="https://github.com/user-attachments/assets/62530cf3-05fe-48aa-8280-d08fbc0ae42e" />
